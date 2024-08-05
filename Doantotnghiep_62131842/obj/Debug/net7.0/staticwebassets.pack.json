@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Hocvien\\Data_2024-05-21 (3).csv\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Hocvien\\Data_2024-05-21 (3).csv\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Hocvien\\HV0960712\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Hocvien\\HV0960712\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Hocvien\\HV1059283\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Hocvien\\HV1059283\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Hocvien\\HV1455937\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Hocvien\\HV1455937\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Hocvien\\HV1671434\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Hocvien\\HV1671434\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Hocvien\\HV8528431\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Hocvien\\HV8528431\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Hocvien\\HV9326574\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Hocvien\\HV9326574\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Hocvien\\Hinh-nen-mam-non-2.jpg\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Hocvien\\Hinh-nen-mam-non-2.jpg\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Hocvien\\no1.jpg\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Hocvien\\no1.jpg\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Xin chao Duy Tan\\Desktop\\MamnoncuulongBE-FE\\Doantotnghiep_62131842\\Doantotnghiep_62131842\\wwwroot\\Uploads\\Suckhoehangngay\\SNAG-0012.png\\image.png",
+      "PackagePath": "staticwebassets\\Uploads\\Suckhoehangngay\\SNAG-0012.png\\image.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Doantotnghiep_62131842.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Doantotnghiep_62131842.props",
+      "PackagePath": "build\\Doantotnghiep_62131842.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Doantotnghiep_62131842.props",
+      "PackagePath": "buildMultiTargeting\\Doantotnghiep_62131842.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Doantotnghiep_62131842.props",
+      "PackagePath": "buildTransitive\\Doantotnghiep_62131842.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
